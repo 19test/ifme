@@ -14,13 +14,13 @@ es:
 
  navigation:
    about: "Acerca de "
-   blog: "Blog:"
+   blog: "Blog"
    contributors: "Contribuidores"
    partners: "Socios"
    privacy: "Política de Privacidad"
    github: "GitHub"
    patreon: "Patreon"
-   feedback: "feedback"
+   feedback: "retroalimentación"
    medium: "Medium"
 
  common:
@@ -233,7 +233,7 @@ es:
    viewers_hint: "Aliados que pueden ver tu momento:"
 
   index:
-   subtitle: "Profundiza en tus Momentos - eventos y situaciones que afectan tu salud mental/"
+   subtitle: "Profundiza en tus Momentos - eventos y situaciones que afectan tu salud mental"
    instructions: "Aún no has escrito sobre tus momentos. ¡Da click en %{icon} para inciar! <br><br>¿No sabes por díbde empezar? Escribe algo que haya ocurrido hoy y que te gustaría compartir y discutir con tus seres queridos. ¡Puede ser positivo o negativo! No tienes que compartirlo ahora mismo - ¡Hazlo hasta que te sientas listo! Aquí hay un Momento de ejemplo."
    example_name: "¡Preocupación por una entrevsita de mañana!"
    example_category: "Carrera"
@@ -321,7 +321,7 @@ es:
  pages:
   about:
     email_us: "Envía un correo electrónico a: %{email_link}!"
-    description: "<em>if me<em>, por su significado en inglés, <em>si a mi<em>,  es una comunidad que nos alienta a compartir nuestras experiencias e historias de salud mental con aliados de confianza. Los aliados son con quienes interactuamos a diario, incluyendo amigos, familiares, compañeros de trabajo, maestros, y trabajadores de la salud mental <p> Sobrellevar la salud mental es lo que nos hace humanos. Sin embargo, para  muchos de nosotros, es difícil ser sinceros al respecto. </p> <p> No todas las personas con las que hablamos son consejeros o terapeutas. Las personas con las que interactuamos diariamente afectan nuestras emociones y comportamiento. Involucrarlos en el tratamiento de nuestra salud mental es la clave para recuperarnos. </p><div class=\"spacer\"></div><div class=\"subtitle block\">\"Está en tu mente, pero también a tu alrededor\"</div><div class=\"spacer\"></div><div class=\"purple_yay\">&hearts;</div><div class=\"spacer\"></div><p>La salud mental es una experiencia única e individual. ¡No hay dos cerebros idénticos!</p><p><strong>¿Quieres ayudar a financiarnos?</strong> Nuestra página es <u>completamente</u>open source. Es decir, se construye y mantiene por parte de voluntarios con diversas experiencias y habilidades profesionales. Debido al crecimiento de nuestro sitio, necesitamos recursos económicos para pagar por hosting y para cumplir con los estándares de HIPAA (Ley de Responsabilidad y Portabilidad del Seguro de Salud, maybe). En invierno de 2016 recibimos una subvención comunitaria por parte de %{linebreak_link}. Puedes apoyarnos con una donación en nuestro %{patreon_link}."
+    description: ", por su significado en inglés, <em>si a mi</em>, es una comunidad que nos alienta a compartir nuestras experiencias e historias de salud mental con aliados de confianza. Los aliados son con quienes interactuamos a diario, incluyendo amigos, familiares, compañeros de trabajo, maestros, y trabajadores de la salud mental <p> Sobrellevar la salud mental es lo que nos hace humanos. Sin embargo, para  muchos de nosotros, es difícil ser sinceros al respecto. </p> <p> No todas las personas con las que hablamos son consejeros o terapeutas. Las personas con las que interactuamos diariamente afectan nuestras emociones y comportamiento. Involucrarlos en el tratamiento de nuestra salud mental es la clave para recuperarnos. </p><div class=\"spacer\"></div><div class=\"subtitle block\">\"Está en tu mente, pero también a tu alrededor\"</div><div class=\"spacer\"></div><div class=\"purple_yay\">&hearts;</div><div class=\"spacer\"></div><p>La salud mental es una experiencia única e individual. ¡No hay dos cerebros idénticos!</p><p><strong>¿Quieres ayudar a financiarnos?</strong> Nuestra página es <u>completamente</u>open source. Es decir, se construye y mantiene por parte de voluntarios con diversas experiencias y habilidades profesionales. Debido al crecimiento de nuestro sitio, necesitamos recursos económicos para pagar por hosting y para cumplir con los estándares de HIPAA (Ley de Responsabilidad y Portabilidad del Seguro de Salud, maybe). En invierno de 2016 recibimos una subvención comunitaria por parte de %{linebreak_link}. Puedes apoyarnos con una donación en nuestro %{patreon_link}."
     linebreak: "Linebreak"
   blog:
     description: "Si quieres compartir tu artículo o escribir uno nuevo, dile a %{email_link}!"
